@@ -12,7 +12,7 @@ Landing page del videojuego **Gaia Salvation**, un juego educativo y de aventura
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tuusuario/gaia-salvation-landing.git
+git clone https://github.com/santiagohoyos20/gaia-salvation-page.git
 cd gaia-salvation-landing
 npm install
 npm run dev
