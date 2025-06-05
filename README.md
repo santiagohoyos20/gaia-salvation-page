@@ -13,6 +13,6 @@ Landing page del videojuego **Gaia Salvation**, un juego educativo y de aventura
 
 ```bash
 git clone https://github.com/santiagohoyos20/gaia-salvation-page.git
-cd gaia-salvation-landing
+cd gaia-salvation-page
 npm install
 npm run dev

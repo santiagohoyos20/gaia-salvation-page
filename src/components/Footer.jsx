@@ -32,14 +32,14 @@ const Footer = () => {
     {
       name: "Carlos Villadiego",
       role: "AI Researcher",
-      github: "#",
-      linkedin: "#"
+      github: "https://github.com/CaVilladiego",
+      linkedin: "https://www.linkedin.com/in/carlos-villadiego-663334310/"
     },
     {
       name: "Raúl Morales",
       role: "AI Researcher",
-      github: "#",
-      linkedin: "#"
+      github: "https://github.com/Azkalagon",
+      linkedin: ""
     }
   ];
 
